@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oluwoleadetifa
+- I'm interested in frontend and cloud engineering
+- I am currently learning cloud engineering
+- I'm looking to collaborate on reactJs, javascript and cloud projects
+- You can reach me via mail
