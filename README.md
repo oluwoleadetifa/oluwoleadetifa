@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oluwoleadetifa
-- I'm interested in frontend and cloud engineering
-- I do research in quantum cryptography
-- I'm looking to collaborate on web, mobile, cloud and quantum projects
-- You can reach me via mail @ adetifaoluwole@gmail.com
+- I'm a software engineer, majorly using React, and Python for my projects
+- I do research in quantum IoT Security.
+- I'm looking to collaborate on web, mobile, Ai and quantum projects
+- You can reach me via email @ adetifaoluwole@gmail.com
