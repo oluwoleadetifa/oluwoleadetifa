@@ -1,50 +1,38 @@
-# Hey, I'm Oluwole 👋
+# Oluwole Adetifa
 
-I'm a multidisciplinary engineer working across **AI, systems, security, and high-performance computing**.
+**Systems & Security Software Engineer**  
+C/C++ • Rust • Java/Python • Linux • Distributed Systems • Performance • Secure Infrastructure
 
-My background spans software engineering, distributed systems, applied cybersecurity, machine learning, computer architecture, and hardware/software integration. I enjoy problems where the interesting work happens between layers: understanding how a system behaves, finding the bottleneck or security boundary, and building a better architecture.
+I build secure, performance-sensitive software systems across backend infrastructure, distributed services, and hardware/software boundaries.
 
-## What I work on
-
-* 🔐 **Security & Distributed Systems** — authentication, replay protection, post-quantum cryptography, Zero Trust, secure APIs
-* 🤖 **AI / ML Systems** — multimodal learning, model pipelines, AI service integration
-* ⚡ **High-Performance Computing** — CPU/GPU benchmarking, CUDA, concurrency, performance profiling
-* 🧠 **Systems Engineering** — Linux, Rust, C/C++, Java, Python, distributed infrastructure
-* 🧩 **Hardware / Software Systems** — FPGA, VHDL/SystemVerilog, RISC-V, PCIe-connected hardware
+My background spans production C++/Linux systems, secure distributed services in Rust, Java/Python backend engineering, performance benchmarking, trusted-computing research, and hardware-backed security. I am currently completing a Ph.D. in Advanced & Equitable Computing focused on secure distributed systems and trusted infrastructure.
 
 ## Selected Work
 
 ### [QEaaS — Secure Quantum Entropy Distribution](https://github.com/oluwoleadetifa/qeaas-auth-server)
-
-Rust-based secure entropy infrastructure with authenticated IoT clients, cryptographic request signing, replay protection, post-quantum workflows, concurrent benchmarking, and latency/throughput analysis.
+Rust-based secure entropy infrastructure with authenticated clients, request signing, nonce-based replay protection, post-quantum cryptography, concurrent benchmarking, and latency/throughput analysis.
 
 ### [High-Performance Image Processing](https://github.com/oluwoleadetifa/HPC-Project)
+Benchmarking framework comparing sequential, multithreaded, multiprocessing, and GPU-accelerated image-processing pipelines across multiple workloads.
 
-Performance study comparing sequential, multithreaded, multiprocessing, and CUDA-accelerated image-processing pipelines across different workloads.
-
-### [Multimodal Movie Genre Classification](https://github.com/oluwoleadetifa/movie_genre_classification)
-
-Machine-learning system combining text and image representations using TF-IDF, HOG, BERT, ResNet, late fusion, intermediate fusion, and ablation experiments.
+### [Quantum Trusted Platform Module Research](https://github.com/oluwoleadetifa/Quantum-Trusted-Platform-Module-QTPM-to-Advance-IoT-Security)
+Research code, datasets, and experiments supporting QRNG-backed trusted-computing and IoT-security work.
 
 ### [FPGA / QRNG Security Research](https://github.com/oluwoleadetifa/research)
+Hardware/software research involving FPGA randomness processing, VHDL testbenches, physical QRNG access, statistical validation, and secure-system experimentation.
 
-Hardware/software research involving FPGA-based randomness processing, VHDL implementations and testbenches, physical QRNG access, statistical validation, and secure IoT workflows.
+## Engineering Focus
 
-### [Quantum Trusted Platform Module for IoT Security](https://github.com/oluwoleadetifa/Quantum-Trusted-Platform-Module-QTPM-to-Advance-IoT-Security)
-
-Research code and experimental datasets supporting work on quantum randomness, trusted computing, and IoT security.
-
-## Languages & Tools
-
-**Languages:** Java • Python • Rust • C • C++ • TypeScript • JavaScript • SQL • Bash
-**Systems:** Linux • Docker • PostgreSQL • Git • REST APIs • Distributed Systems • Concurrency
-**AI / HPC:** PyTorch • BERT • ResNet • OpenCV • CUDA • Parallel Computing
-**Security:** Applied Cryptography • PQC • Authentication • Replay Protection • Zero Trust
-**Hardware:** FPGA • VHDL/SystemVerilog • RISC-V • PCIe
+- **Systems Software:** Linux, C/C++, Rust, concurrency, debugging, performance profiling
+- **Distributed & Backend Systems:** Java, Python, REST APIs, PostgreSQL, asynchronous services
+- **Security Engineering:** authentication, replay protection, secure service boundaries, post-quantum cryptography, Zero Trust concepts
+- **Performance Engineering:** latency/throughput analysis, benchmarking, CPU/GPU execution models, bottleneck analysis
+- **Hardware / Software Integration:** FPGA, VHDL/SystemVerilog, RISC-V, PCIe-connected hardware
 
 ## Current Direction
 
-I'm especially interested in opportunities around **AI systems, AI security, application/product security, distributed systems, research engineering, and secure infrastructure**.
+I am focused on **systems software, secure infrastructure, distributed systems, platform engineering, performance engineering, and security-focused software roles**.
 
-📍 Philadelphia, PA
-🔗 [Portfolio](https://oluwoleadetifa.com)
+📍 Philadelphia, PA  
+🌐 [Portfolio](https://oluwoleadetifa.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/oluwole-adetifa-278586113)
